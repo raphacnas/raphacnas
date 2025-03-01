@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! Eu sou Rapha, um programador em FRC 😁👋
 
 <!--
 **raphacnas/raphacnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
