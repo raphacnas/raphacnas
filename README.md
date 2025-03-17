@@ -1,4 +1,4 @@
-# Hello World! Eu sou Rapha, um programador de FRC 😁👋
+# Hello World! Eu sou Rapha, um programador de FRC 👋
 
 🛜 Sou um programador de visão computacional. <br>
 👨🏼‍🎓 Atualmente estou aprendendo életrica com Arduino e ESP32. <br>
