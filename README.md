@@ -12,3 +12,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raphacnas&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=raphacnas&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=raphacnas&theme=great-gatsby&hide_border=false)
+
+<br>
+
+---
+
+<br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphacnas/raphacnas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphacnas/raphacnas/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
