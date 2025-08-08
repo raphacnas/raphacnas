@@ -1,7 +1,7 @@
 # Hello World! Eu sou Rapha, um programador de FRC 👋
 
-🛜 Sou um programador de visão computacional e de robótica. <br>
-👨🏼‍🎓 Atualmente estou aprendendo a programar robôs no WPILIB. <br>
+🛜 Sou um programador de visão computacional(IAs) e de locomoção robótica. <br>
+👨🏼‍🎓 Atualmente estou aprendendo a utilizar a limelight. <br>
 👨🏼‍💻 Programo desde 2024. <br><br>
 
 # 💻 Meu Tech Stack:
