@@ -13,9 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raphacnas&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=raphacnas&theme=merko&hide_border=false)
 
-<!-- <br>
+<br>
 
- ---
+# 🐍🍎 Contribuições neste ano
 
  <picture align="center">
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphacnas/raphacnas/output/github-contribution-grid-snake-dark.svg">
