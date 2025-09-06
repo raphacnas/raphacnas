@@ -1,4 +1,4 @@
-# Hello World! Me chamo Rapha, sou da FRC 👋
+# Hello World! Me chamo Rapha, sou de FRC 👋
 
 🇧🇷 Faço parte da categoria FRC como um programador na equipe Hydra #9163. <br>
 🤖 Sou um programador de visão computacional (IAs) e de locomoção robótica. <br>
