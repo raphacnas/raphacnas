@@ -1,8 +1,8 @@
 # Hello World! Me chamo Rapha, sou de FRC 👋
 
 🇧🇷 Faço parte da categoria FRC como um programador na equipe Hydra #9163. <br>
-🤖 Sou um programador de visão computacional (IAs) e de locomoção robótica. <br>
-👨🏻‍🎓 Atualmente estou aprendendo a utilizar a limelight para locomoção autônoma. <br>
+🤖 Sou um programador de visão computacional (IAs) e de automação robótica. <br>
+👨🏻‍🎓 Atualmente, estou desenvolvendo o código do robô para a [temporada de FRC](https://www.youtube.com/watch?v=_fybREErgyM). <br>
 👨🏻‍💻 Programo desde 2024. <br><br>
 
 # 💻 Meu Tech Stack:
