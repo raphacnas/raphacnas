@@ -10,8 +10,8 @@
 
 # 📊 Status do GitHub:
 
-![](https://github-contributor-stats.vercel.app/api?username=raphacnas&limit=5&theme=merko&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raphacnas&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=raphacnas&limit=5&theme=merko&combine_all_yearly_contributions=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raphacnas&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 ![](https://nirzak-streak-stats.vercel.app/?user=raphacnas&theme=merko&hide_border=false)
 
 <br>
