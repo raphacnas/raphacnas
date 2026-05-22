@@ -12,3 +12,13 @@
 ![](https://github-readme-stats.shion.dev/api?username=raphacnas&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raphacnas&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://streak-stats.demolab.com/?user=raphacnas&theme=great-gatsby&hide_border=false) <br/>
+
+<br>
+
+# 🐍🍎 Contribuições neste ano
+
+ <picture align="center">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphacnas/raphacnas/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphacnas/raphacnas/output/github-contribution-grid-snake-dark.svg">
+   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+ </picture>
