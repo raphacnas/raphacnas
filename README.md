@@ -24,6 +24,7 @@
  </picture>
 
 <br clear="both"> 
+
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphacnas/raphacnas/pacman-output/bomberman-contribution-graph-dark.svg">
